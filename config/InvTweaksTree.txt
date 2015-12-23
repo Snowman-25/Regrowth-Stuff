@@ -23,6 +23,7 @@
 # Thanks to Larandar & Lunaqua for their contributions.
 -->
 <!-- Note: 'stuff' matches everything, even items that don't appear here -->
+<!-- TODO: Add Regrowth-Stuff for proper integration. e.g.: "sword" should match any sword from the mods as well as Tinkerer's Items -->
 <stuff treeVersion="1.7.0">
     <equipment>
         <weapon>
